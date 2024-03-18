@@ -1,0 +1,13 @@
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\bin\Debug\CleanKeyNeat.exe.config
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\bin\Debug\CleanKeyNeat.exe
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\bin\Debug\CleanKeyNeat.pdb
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\bin\Debug\WindowsInput.dll
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\bin\Debug\WindowsInput.xml
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.csproj.AssemblyReference.cache
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.Form1.resources
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.Properties.Resources.resources
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.csproj.GenerateResource.cache
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.csproj.CoreCompileInputs.cache
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.csproj.CopyComplete
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.exe
+D:\WinFormsApps\CleanKeyNetFolder\CleanKeyNeat\obj\Debug\CleanKeyNeat.pdb
